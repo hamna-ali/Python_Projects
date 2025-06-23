@@ -1,14 +1,14 @@
-**🐢 Turtle Crossing Game**
+****🐢 Turtle Crossing Game****
 <br>
 A simple turtle-based road-crossing game built with Python's turtle module.
 <br>
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 <br>
 Python 3
 <br>
 turtle module (standard library)
 <br>
-✨ Features
+**✨ Features**
 <br>
 Turtle moves upward with arrow key
 <br>
@@ -18,7 +18,7 @@ Collision detection ends game
 <br>
 Level-up system with increasing speed
 <br>
-🎓 Learning Outcomes
+**🎓 Learning Outcomes**
 <br>
 Practiced OOP concepts like classes and inheritance
 <br>
