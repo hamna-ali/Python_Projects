@@ -23,20 +23,6 @@ A Python-based GUI application to generate and manage secure passwords. Built wi
 - Built-in modules: `tkinter`, `random`
 - Third-party module: `pyperclip`
 
-#📚 Learning Outcomes
--By building this project, you will:
-
--Understand the basics of GUI development using tkinter
-
--Learn random password generation using Python's random module
-
--Work with file handling in both .txt and .json formats
-
--Use external modules like pyperclip for clipboard interaction
-
--Apply data validation and user input handling
-
--Learn how to separate logic into multiple Python files for modular design
 
 Install with:
 ```bash
